@@ -1,0 +1,19 @@
+{
+  "name": "jquery.custom.js",
+  "version": "0.0.1",
+  "description": "Ajax only jquery",
+  "main": "jquery.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mtford90/jquery.custom.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtford90/jquery.custom.js/issues"
+  },
+  "homepage": "https://github.com/mtford90/jquery.custom.js"
+}
